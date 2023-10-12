@@ -16,7 +16,7 @@ timezone: ''
  
  
 url: http://houzhihuil.github.io/my-blog
-root: /my-blog
+root: /
 
 permalink: :year/:month/:day/:title/
 permalink_defaults:
